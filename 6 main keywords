@@ -1,0 +1,7 @@
+So the main 6 keywords and their functions 
+SELECT - you ask what data you want to see  
+WHERE - Filter for the list/Data allwoing you only what meets conditions
+INSERT - adding data to a list/data, adding new entry to a list   
+UPDATE - change something that`s already in the list, like updating  a persons name
+DELETE -  removing something from the list, like erasing a name
+JOIN - mergin two list into one, combining information from different sources
